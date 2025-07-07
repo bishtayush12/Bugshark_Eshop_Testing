@@ -53,9 +53,9 @@ BugShark_Eshop_Testing/ ├── Manual_Testing/ │   ├── Test_Plan.docx
 
 ## 👤 Author
 
-**Aman Singh**  
+**Ayush Bisht**  
 Software Testing | Manual & Automation (Selenium + Python)  
-📫 [Your Email or LinkedIn here]
+📫 bishtayush2493@gmail.com
 
 ---
 
