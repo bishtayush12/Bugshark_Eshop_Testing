@@ -46,6 +46,7 @@ BugShark_Eshop_Testing/ ├── Manual_Testing/ │   ├── Test_Plan.docx
 
 - ✅ Test Plan Document
 - ✅ Test Cases (Excel)
+- ✅ Test Data (Excel)
 - ✅ Bug Reports with Screenshots
 - ✅ Selenium Python Scripts
 
